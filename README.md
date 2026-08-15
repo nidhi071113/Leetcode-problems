@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
