@@ -108,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/nidhi071113/Leetcode-problems/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
