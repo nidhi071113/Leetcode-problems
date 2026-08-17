@@ -50,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/nidhi071113/Leetcode-problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nidhi071113/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nidhi071113/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/nidhi071113/Leetcode-problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nidhi071113/Leetcode-problems/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/nidhi071113/Leetcode-problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nidhi071113/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nidhi071113/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [1563-stone-game-v](https://github.com/nidhi071113/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nidhi071113/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nidhi071113/Leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
