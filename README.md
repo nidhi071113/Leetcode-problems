@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/nidhi071113/Leetcode-problems/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nidhi071113/Leetcode-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/nidhi071113/Leetcode-problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/nidhi071113/Leetcode-problems/tree/master/1683-invalid-tweets) |
 ## Greedy
 |  |
