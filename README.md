@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhi071113/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhi071113/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Math
 |  |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
@@ -212,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
