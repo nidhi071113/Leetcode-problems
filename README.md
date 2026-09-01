@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/nidhi071113/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nidhi071113/Leetcode-problems/tree/master/2029-stone-game-ix) |
@@ -186,4 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
