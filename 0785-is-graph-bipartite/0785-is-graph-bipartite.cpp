@@ -36,9 +36,9 @@ public:
 
         int color[V];
 
-        for(int i = 0; i < V; i++)
+        for(int i = 0; i < V; i++){
             color[i] = -1;
-
+        }
         for(int i = 0; i < V; i++) {
             if(color[i] == -1) {
                 if(check(i, V, graph, color) == false) {
