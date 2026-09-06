@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhi071113/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhi071113/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
 | [1927-sum-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nidhi071113/Leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhi071113/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nidhi071113/Leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nidhi071113/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nidhi071113/Leetcode-problems/tree/master/0207-course-schedule) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nidhi071113/Leetcode-problems/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
