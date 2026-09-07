@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/nidhi071113/Leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/nidhi071113/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/nidhi071113/Leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/nidhi071113/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/nidhi071113/Leetcode-problems/tree/master/1563-stone-game-v) |
+| [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2029-stone-game-ix](https://github.com/nidhi071113/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nidhi071113/Leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nidhi071113/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/nidhi071113/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/nidhi071113/Leetcode-problems/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nidhi071113/Leetcode-problems/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/nidhi071113/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -342,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
