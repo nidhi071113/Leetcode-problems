@@ -8,8 +8,7 @@ public:
         priority_queue<
             pair<int, pair<int, int>>, 
             vector<pair<int, pair<int, int>>>, 
-            greater<pair<int, pair<int, int>>>
-        > pq;
+            greater<pair<int, pair<int, int>>>> pq;
 
         // dist[i][j] stores the minimum effort required to reach cell (i, j)
         vector<vector<int>> dist(n, vector<int>(m, 1e9));
