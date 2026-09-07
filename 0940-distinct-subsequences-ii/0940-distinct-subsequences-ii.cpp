@@ -1,23 +1,16 @@
 class Solution {
 public:
+    int MOD=1e9+7;
     int distinctSubseqII(string s) {
-        const int mod = 1e9 + 7;
-        vector<long long> dp(26, 0);
-
-        for(char c : s) {
-            long long total = 1;
-
-            for(int i = 0; i < 26; i++){
-                total = (total + dp[i]) % mod;
-            }
-            dp[c - 'a'] = total;
+        int n=s.size();
+        vector<long long> end(27, 0);
+        long long total=0;
+        for(int i=0; i<n; i++){
+            char ch=s[i];
+            long long new_cnt=(total+1)%MOD;
+            total=(total+new_cnt-end[ch-'a']+MOD)%MOD;
+            end[ch-'a']=new_cnt;
         }
-
-        long long ans = 0;
-
-        for(int i = 0; i < 26; i++){
-            ans = (ans + dp[i]) % mod;
-        }
-        return ans;
+        return total;
     }
 };
