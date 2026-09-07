@@ -7,17 +7,17 @@ public:
         for(char c : s) {
             long long total = 1;
 
-            for(int i = 0; i < 26; i++)
+            for(int i = 0; i < 26; i++){
                 total = (total + dp[i]) % mod;
-
+            }
             dp[c - 'a'] = total;
         }
 
         long long ans = 0;
 
-        for(int i = 0; i < 26; i++)
+        for(int i = 0; i < 26; i++){
             ans = (ans + dp[i]) % mod;
-
+        }
         return ans;
     }
 };
