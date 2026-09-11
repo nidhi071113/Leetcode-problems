@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhi071113/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhi071113/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nidhi071113/Leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nidhi071113/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nidhi071113/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nidhi071113/Leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nidhi071113/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nidhi071113/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nidhi071113/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nidhi071113/Leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nidhi071113/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nidhi071113/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nidhi071113/Leetcode-problems/tree/master/0733-flood-fill) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/nidhi071113/Leetcode-problems/tree/master/1020-number-of-enclaves) |
@@ -198,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Segment Tree
 |  |
@@ -299,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nidhi071113/Leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nidhi071113/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nidhi071113/Leetcode-problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/nidhi071113/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/nidhi071113/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nidhi071113/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
