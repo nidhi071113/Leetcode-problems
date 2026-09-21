@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhi071113/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nidhi071113/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhi071113/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/nidhi071113/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/nidhi071113/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nidhi071113/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/nidhi071113/Leetcode-problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nidhi071113/Leetcode-problems/tree/master/1563-stone-game-v) |
