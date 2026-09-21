@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhi071113/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nidhi071113/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nidhi071113/Leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhi071113/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Segment Tree
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nidhi071113/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nidhi071113/Leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
