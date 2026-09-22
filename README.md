@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/nidhi071113/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nidhi071113/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/nidhi071113/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/nidhi071113/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
