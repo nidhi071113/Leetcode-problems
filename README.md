@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nidhi071113/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0542-01-matrix) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nidhi071113/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/nidhi071113/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/nidhi071113/Leetcode-problems/tree/master/0860-lemonade-change) |
