@@ -7,8 +7,8 @@ public:
 
         int l = 0, r = 0;
         while(l < m && r < n){
-            if(g[r] <= s[l]) r = r+1;
-            l=l+1;
+            if(g[r] <= s[l]) r++;
+            l++;
         }
         return r;
     }
