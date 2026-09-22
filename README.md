@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nidhi071113/Leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nidhi071113/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nidhi071113/Leetcode-problems/tree/master/0733-flood-fill) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nidhi071113/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
