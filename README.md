@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nidhi071113/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/nidhi071113/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nidhi071113/Leetcode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nidhi071113/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/nidhi071113/Leetcode-problems/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nidhi071113/Leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
