@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nidhi071113/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nidhi071113/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
+| [1096-brace-expansion-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/nidhi071113/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nidhi071113/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nidhi071113/Leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/nidhi071113/Leetcode-problems/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/nidhi071113/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nidhi071113/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Math
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
+| [1096-brace-expansion-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nidhi071113/Leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/nidhi071113/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0126-word-ladder-ii) |
+| [1096-brace-expansion-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
