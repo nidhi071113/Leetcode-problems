@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nidhi071113/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/nidhi071113/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/nidhi071113/Leetcode-problems/tree/master/1510-stone-game-iv) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nidhi071113/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/nidhi071113/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/nidhi071113/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nidhi071113/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nidhi071113/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nidhi071113/Leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
