@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/nidhi071113/Leetcode-problems/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nidhi071113/Leetcode-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/nidhi071113/Leetcode-problems/tree/master/1661-average-time-of-process-per-machine) |
