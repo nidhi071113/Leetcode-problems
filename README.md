@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nidhi071113/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nidhi071113/Leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/nidhi071113/Leetcode-problems/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Sorting
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nidhi071113/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nidhi071113/Leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nidhi071113/Leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Counting
 |  |
 | ------- |
