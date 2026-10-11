@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nidhi071113/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/nidhi071113/Leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/nidhi071113/Leetcode-problems/tree/master/0507-perfect-number) |
 | [1510-stone-game-iv](https://github.com/nidhi071113/Leetcode-problems/tree/master/1510-stone-game-iv) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nidhi071113/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nidhi071113/Leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nidhi071113/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0455-assign-cookies) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nidhi071113/Leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
@@ -599,4 +602,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
