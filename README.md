@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/nidhi071113/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0542-01-matrix) |
