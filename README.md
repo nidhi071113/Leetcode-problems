@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nidhi071113/Leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/nidhi071113/Leetcode-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/nidhi071113/Leetcode-problems/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Sorting
 |  |
