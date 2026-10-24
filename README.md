@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nidhi071113/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/nidhi071113/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nidhi071113/Leetcode-problems/tree/master/0057-insert-interval) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nidhi071113/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/nidhi071113/Leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nidhi071113/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0542-01-matrix) |
