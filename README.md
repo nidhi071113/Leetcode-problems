@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nidhi071113/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nidhi071113/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nidhi071113/Leetcode-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nidhi071113/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nidhi071113/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nidhi071113/Leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nidhi071113/Leetcode-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nidhi071113/Leetcode-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nidhi071113/Leetcode-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nidhi071113/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nidhi071113/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nidhi071113/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nidhi071113/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
