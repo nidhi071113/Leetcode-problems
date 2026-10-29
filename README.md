@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nidhi071113/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/nidhi071113/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/nidhi071113/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/nidhi071113/Leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nidhi071113/Leetcode-problems/tree/master/0268-missing-number) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nidhi071113/Leetcode-problems/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/nidhi071113/Leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
