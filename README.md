@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nidhi071113/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/nidhi071113/Leetcode-problems/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/nidhi071113/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nidhi071113/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/nidhi071113/Leetcode-problems/tree/master/0048-rotate-image) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nidhi071113/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/nidhi071113/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/nidhi071113/Leetcode-problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
