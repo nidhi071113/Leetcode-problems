@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nidhi071113/Leetcode-problems/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nidhi071113/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/nidhi071113/Leetcode-problems/tree/master/0507-perfect-number) |
 | [1510-stone-game-iv](https://github.com/nidhi071113/Leetcode-problems/tree/master/1510-stone-game-iv) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nidhi071113/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/nidhi071113/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/nidhi071113/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nidhi071113/Leetcode-problems/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/nidhi071113/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nidhi071113/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/nidhi071113/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/nidhi071113/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi071113/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
