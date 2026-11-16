@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nidhi071113/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/nidhi071113/Leetcode-problems/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/nidhi071113/Leetcode-problems/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/nidhi071113/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nidhi071113/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/nidhi071113/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nidhi071113/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/nidhi071113/Leetcode-problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/nidhi071113/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/nidhi071113/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nidhi071113/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nidhi071113/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
