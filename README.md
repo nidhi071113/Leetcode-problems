@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nidhi071113/Leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/nidhi071113/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhi071113/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nidhi071113/Leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
