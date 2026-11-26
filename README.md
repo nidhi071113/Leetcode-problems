@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/nidhi071113/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/nidhi071113/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/nidhi071113/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nidhi071113/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nidhi071113/Leetcode-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nidhi071113/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nidhi071113/Leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nidhi071113/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/nidhi071113/Leetcode-problems/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
